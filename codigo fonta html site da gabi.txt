@@ -1,0 +1,52 @@
+<!DOCTYPE html> 
+<html lang="pt-BR"></html>
+<head>
+    <link rel="icon" type="ico" sizes="16x16" href="flor.ico">
+    <link rel="stylesheet" href="style.css">
+    <meta charset="utf-8"/>
+    <meta name="Author" content="Gabi Trevisani"/>
+    <meta
+    name="description"
+    content="Esse site tem como objetivo compartilhar minha viagem" />
+    <title> C'est la vie de Gabi </title>
+    <div class="container">
+        <nav>
+        <ul class="bar">
+          <li><a href="#" class="active">Página inicial</a></li>
+          <div class="buttom"></div>
+          <li class="has-dropdown">
+            <a href="#">Blog</a>
+            <ul class="dropdown">
+              <li><a href="#">Viagens</a></li>
+              <li><a href="#">Poemas</a></li>
+              <li><a href="#">Devaneios</a></li>
+            </ul>
+          </li>
+          <li class="has-dropdown">
+            <a href="#">Contato</a>
+            <ul class="dropdown">
+              <li><a href="#">E-mail</a></li>
+              <li><a href="#">Instagram</a></li>
+            </ul>
+          </li>
+          <li class="has-dropdown">
+            <a href="#">Pague-me um café</a>
+            <ul class="dropdown">
+              <li><a href="#">pix</a></li>
+            </ul>
+          </li>
+         
+        </nav>
+      </div>      
+</head>
+<h1>
+    <p>C'est la vie</p>
+     <p>de Gabi</p>
+     <div class="linha vertical"></div><div class="linha vertical"></div>
+ </h1>
+<body> 
+    <p>Oh mon Dieu c'est tout en français e je comprend pas e blábláblá</p> 
+    <p><strong>MAIS NON!!</strong>...Talvez...Bom esse é meu site e eu vou escrever em <em>todas</em> as línguas que eu falo para praticar</p>
+</body>
+
+</html>
