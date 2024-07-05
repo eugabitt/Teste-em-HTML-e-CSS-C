@@ -45,8 +45,8 @@
      <div class="linha vertical"></div><div class="linha vertical"></div>
  </h1>
 <body> 
-    <p>Oh mon Dieu c'est tout en français e je comprend pas e blábláblá</p> 
-    <p><strong>MAIS NON!!</strong>...Talvez...Bom esse é meu site e eu vou escrever em <em>todas</em> as línguas que eu falo para praticar</p>
+    <p>TESTESTESTESTES</p> 
+    <p><strong>TESTEnegrito!</strong> teste2 <em>TESTEitalico</em> </p>
 </body>
 
 </html>
